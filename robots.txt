@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://boopaejaac.jaradcomingdeer.com/sitemap.xml
